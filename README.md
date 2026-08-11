@@ -16,15 +16,14 @@ $ python textris.py
 Python version: **Python 3.6 or higher**\
 No additional packages/requirements needed!
 
-## Controls
+## Modified Controls
 
-- D: move right
-- A: move left+
-- S: "soft" drop
-- W: hard drop
-- Right Arrow: rotate right
-- Left Arrow: rotate left
-- Space: hold piece
+- ►: move right
+- ◄: move left+
+- ▼: "soft" drop
+- Enter: hard drop
+- ▲: rotate right
+- End: hold piece
 
 ## Score saving
 
